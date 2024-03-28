@@ -21,6 +21,12 @@ Given a roman numeral, convert it to an integer.
 */
 
 
+#include <iostream>
+#include <map>
+#include <string>
+
+using namespace std;
+
 class Solution {
 public:
     int romanToInt(string s) {

@@ -5,6 +5,12 @@ You may assume that each input would have exactly one solution, and you may not 
 You can return the answer in any order.
 */
 
+#include <iostream>
+#include <unordered_map>
+#include <vector>
+#include <string>
+
+using namespace std;
 
 class Solution {
 public:
